@@ -1,2 +1,2 @@
-# Hollow-Valley 5.8
+# Hollow Valley
 
